@@ -102,10 +102,17 @@ img {
     padding-top: 20px;
   }
 
-
-} #why .row>.first,
+  #why .row>.first,
   #why .row>.second,
   #why .row>.third {
-    padding-right: 20px;
-    padding-left: 20px;
+      padding-right: 20px;
+      padding-left: 20px;
+    }
+    
+  #why .row img {
+      width: 20%;
+      height: auto;
+
+    }
+
 }
